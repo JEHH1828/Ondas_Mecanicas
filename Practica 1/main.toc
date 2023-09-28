@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
+\contentsline {section}{\numberline {3}Introducción.}{2}{}%
+\contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
+\contentsline {section}{\numberline {5}Experimento 3. Obtención de la aceleración de la gravedad de la localidad $(g)$}{2}{}%
+\contentsline {section}{\numberline {6}Conclusiones.}{2}{}%
