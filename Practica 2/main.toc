@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
+\contentsline {section}{\numberline {3}Marco teórico.}{2}{}%
+\contentsline {section}{\numberline {4}Experimento No.1- Influencia de la amplitud de oscilación en el periodo de un péndulo}{3}{}%
+\contentsline {section}{\numberline {5}Experimento No.2- Influencia de la masa}{3}{}%
+\contentsline {section}{\numberline {6}Experimento No.3- Relación entre la longitud y el periodo de un péndulo simple.}{5}{}%
+\contentsline {section}{\numberline {7}Conclusiones.}{6}{}%
+\contentsline {subsection}{\numberline {7.1}Hernández Huerta Jose Emilio.}{6}{}%
+\contentsline {subsection}{\numberline {7.2}Hernández Sanluis Danna Estefany.}{7}{}%
+\contentsline {subsection}{\numberline {7.3}Nataly Bejarano Garduño.}{7}{}%
+\contentsline {subsection}{\numberline {7.4}Mojica Reyes Rogelio.}{7}{}%

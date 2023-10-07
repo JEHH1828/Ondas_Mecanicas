@@ -3,5 +3,11 @@
 \contentsline {section}{\numberline {2}Objetivo.}{2}{}%
 \contentsline {section}{\numberline {3}Introducción.}{2}{}%
 \contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
-\contentsline {section}{\numberline {5}Experimento 3. Obtención de la aceleración de la gravedad de la localidad $(g)$}{2}{}%
-\contentsline {section}{\numberline {6}Conclusiones.}{2}{}%
+\contentsline {subsection}{\numberline {4.1} Movimiento Armónico Simple}{2}{}%
+\contentsline {section}{\numberline {5}Experimento 1. Determinación de la constante de restitución del resorte $(k)$}{2}{}%
+\contentsline {subsubsection}{\numberline {5.0.1}Conclusión experimental}{3}{}%
+\contentsline {section}{\numberline {6}Experimento 2. Relación entre la masa y el periodo.}{3}{}%
+\contentsline {subsubsection}{\numberline {6.0.1}Desarrollo Experimental:}{4}{}%
+\contentsline {subsubsection}{\numberline {6.0.2}Discusión:}{5}{}%
+\contentsline {section}{\numberline {7}Experimento 3. Obtención de la aceleración de la gravedad de la localidad $(g)$}{6}{}%
+\contentsline {section}{\numberline {8}Conclusiones.}{6}{}%

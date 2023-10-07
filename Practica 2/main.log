@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  5 OCT 2023 09:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  5 OCT 2023 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex"
-(d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex
+**"d:/WorkSpace/Ondas_Mecanicas/Practica 2/main.tex"
+(d:/WorkSpace/Ondas_Mecanicas/Practica 2/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -379,43 +379,33 @@ Package pgfplots: loading complementary utilities for your pgf version...
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/sidecap\sidecap.sty
-Package: sidecap 2023/01/24 v1.7a SideCap Package (RN/HjG)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-\SC@BOXWD=\dimen281
-\SC@CAPWD=\dimen282
-\SC@tempdima=\dimen283
-\SC@tempdimb=\dimen284
-\c@SC@C=\count303
-\SC@BOX=\box63
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+))) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks40
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count304
-\mult@box=\box64
-\multicol@leftmargin=\dimen285
-\c@unbalance=\count305
-\c@collectmore=\count306
-\doublecol@number=\count307
-\multicoltolerance=\count308
-\multicolpretolerance=\count309
-\full@width=\dimen286
-\page@free=\dimen287
-\premulticols=\dimen288
-\postmulticols=\dimen289
+\c@tracingmulticols=\count303
+\mult@box=\box63
+\multicol@leftmargin=\dimen281
+\c@unbalance=\count304
+\c@collectmore=\count305
+\doublecol@number=\count306
+\multicoltolerance=\count307
+\multicolpretolerance=\count308
+\full@width=\dimen282
+\page@free=\dimen283
+\premulticols=\dimen284
+\postmulticols=\dimen285
 \multicolsep=\skip64
 \multicolbaselineskip=\skip65
-\partial@page=\box65
-\last@line=\box66
-\maxbalancingoverflow=\dimen290
-\mult@rightbox=\box67
-\mult@grightbox=\box68
-\mult@firstbox=\box69
-\mult@gfirstbox=\box70
+\partial@page=\box64
+\last@line=\box65
+\maxbalancingoverflow=\dimen286
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
+\@tempa=\box70
 \@tempa=\box71
 \@tempa=\box72
 \@tempa=\box73
@@ -451,34 +441,33 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box103
 \@tempa=\box104
 \@tempa=\box105
-\@tempa=\box106
-\c@minrows=\count310
-\c@columnbadness=\count311
-\c@finalcolumnbadness=\count312
-\last@try=\dimen291
-\multicolovershoot=\dimen292
-\multicolundershoot=\dimen293
-\mult@nat@firstbox=\box107
-\colbreak@box=\box108
-\mc@col@check@num=\count313
+\c@minrows=\count309
+\c@columnbadness=\count310
+\c@finalcolumnbadness=\count311
+\last@try=\dimen287
+\multicolovershoot=\dimen288
+\multicolundershoot=\dimen289
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count312
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen294
-\ar@mcellbox=\box109
-\extrarowheight=\dimen295
+\col@sep=\dimen290
+\ar@mcellbox=\box108
+\extrarowheight=\dimen291
 \NC@list=\toks41
 \extratabsurround=\skip66
 \backup@length=\skip67
-\ar@cellbox=\box110
+\ar@cellbox=\box109
 )
-\TX@col@width=\dimen296
-\TX@old@table=\dimen297
-\TX@old@col=\dimen298
-\TX@target=\dimen299
-\TX@delta=\dimen300
-\TX@cols=\count314
+\TX@col@width=\dimen292
+\TX@old@table=\dimen293
+\TX@old@col=\dimen294
+\TX@target=\dimen295
+\TX@delta=\dimen296
+\TX@cols=\count313
 \TX@ftn=\toks42
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -498,7 +487,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks44
 \XKV@tempa@toks=\toks45
 )
-\XKV@depth=\count315
+\XKV@depth=\count314
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -506,33 +495,33 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box111
+\collectedbox=\box110
 )
-\tc@llx=\dimen301
-\tc@lly=\dimen302
-\tc@urx=\dimen303
-\tc@ury=\dimen304
+\tc@llx=\dimen297
+\tc@lly=\dimen298
+\tc@urx=\dimen299
+\tc@ury=\dimen300
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen305
-\adjbox@Height=\dimen306
-\adjbox@Depth=\dimen307
-\adjbox@Totalheight=\dimen308
-\adjbox@pwidth=\dimen309
-\adjbox@pheight=\dimen310
-\adjbox@pdepth=\dimen311
-\adjbox@ptotalheight=\dimen312
+\adjbox@Width=\dimen301
+\adjbox@Height=\dimen302
+\adjbox@Depth=\dimen303
+\adjbox@Totalheight=\dimen304
+\adjbox@pwidth=\dimen305
+\adjbox@pheight=\dimen306
+\adjbox@pdepth=\dimen307
+\adjbox@ptotalheight=\dimen308
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count316
+\c@checkoddpage=\count315
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box112
-\sift@deathcycles=\count317
-\@vwid@loff=\dimen313
-\@vwid@roff=\dimen314
+\@vwid@box=\box111
+\sift@deathcycles=\count316
+\@vwid@loff=\dimen309
+\@vwid@roff=\dimen310
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip68
@@ -543,54 +532,54 @@ Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks46
-\ex@=\dimen315
+\ex@=\dimen311
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen316
+\pmbraise@=\dimen312
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count318
+\inf@bad=\count317
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count319
-\leftroot@=\count320
+\uproot@=\count318
+\leftroot@=\count319
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count321
-\DOTSCASE@=\count322
+\classnum@=\count320
+\DOTSCASE@=\count321
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box113
-\strutbox@=\box114
+\Mathstrutbox@=\box112
+\strutbox@=\box113
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen317
+\big@size=\dimen313
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count323
+\macc@depth=\count322
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count324
+\c@MaxMatrixCols=\count323
 \dotsspace@=\muskip16
-\c@parentequation=\count325
-\dspbrk@lvl=\count326
+\c@parentequation=\count324
+\dspbrk@lvl=\count325
 \tag@help=\toks47
-\row@=\count327
-\column@=\count328
-\maxfields@=\count329
+\row@=\count326
+\column@=\count327
+\maxfields@=\count328
 \andhelp@=\toks48
-\eqnshift@=\dimen318
-\alignsep@=\dimen319
-\tagshift@=\dimen320
-\tagwidth@=\dimen321
-\totwidth@=\dimen322
-\lineht@=\dimen323
+\eqnshift@=\dimen314
+\alignsep@=\dimen315
+\tagshift@=\dimen316
+\tagwidth@=\dimen317
+\totwidth@=\dimen318
+\lineht@=\dimen319
 \@envbody=\toks49
 \multlinegap=\skip69
 \multlinetaggap=\skip70
@@ -601,25 +590,28 @@ LaTeX Info: Redefining \] on input line 2954.
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count330
-\l__pdf_internal_box=\box115
-) (main.aux)
+\l__color_backend_stack_int=\count329
+\l__pdf_internal_box=\box114
+) (main.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -655,20 +647,20 @@ LaTeX Font Info:    ... okay on input line 19.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
 (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count331
-\scratchdimen=\dimen324
-\scratchbox=\box116
-\nofMPsegments=\count332
-\nofMParguments=\count333
+\scratchcounter=\count330
+\scratchdimen=\dimen320
+\scratchbox=\box115
+\nofMPsegments=\count331
+\nofMParguments=\count332
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count334
-\MPscratchDim=\dimen325
-\MPnumerator=\count335
-\makeMPintoPDFobject=\count336
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen321
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks52
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -678,30 +670,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: sidecap package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 19.
+ on input line 17.
 
-(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
-Package: ragged2e 2023/04/04 v3.5 ragged2e Package
-\CenteringLeftskip=\skip71
-\RaggedLeftLeftskip=\skip72
-\RaggedRightLeftskip=\skip73
-\CenteringRightskip=\skip74
-\RaggedLeftRightskip=\skip75
-\RaggedRightRightskip=\skip76
-\CenteringParfillskip=\skip77
-\RaggedLeftParfillskip=\skip78
-\RaggedRightParfillskip=\skip79
-\JustifyingParfillskip=\skip80
-\CenteringParindent=\skip81
-\RaggedLeftParindent=\skip82
-\RaggedRightParindent=\skip83
-\JustifyingParindent=\skip84
-)
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -737,258 +711,176 @@ Package: ragged2e 2023/04/04 v3.5 ragged2e Package
 <Imagenes//Logo_IPN.png, id=4, 587.94656pt x 836.3747pt>
 File: Imagenes//Logo_IPN.png Graphic file (type png)
 <use Imagenes//Logo_IPN.png>
-Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 41.
+Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 39.
 (pdftex.def)             Requested size: 70.8018pt x 100.71797pt.
 <Imagenes//LogoEsime.png, id=6, 348.55219pt x 310.91156pt>
 File: Imagenes//LogoEsime.png Graphic file (type png)
 <use Imagenes//LogoEsime.png>
-Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 43.
+Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 41.
 (pdftex.def)             Requested size: 103.84744pt x 92.63371pt.
- [1
+[1
 
 
-{C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>]
-No file main.toc.
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-[1]
-<Imagenes/mas.png, id=21, 600.2425pt x 289.08pt>
-File: Imagenes/mas.png Graphic file (type png)
-<use Imagenes/mas.png>
-Package pdftex.def Info: Imagenes/mas.png  used on input line 103.
-(pdftex.def)             Requested size: 227.61826pt x 142.26357pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 109.
+{C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<Imagenes/medida.jpeg, id=22, 1606.0pt x 1204.5pt>
-File: Imagenes/medida.jpeg Graphic file (type jpg)
-<use Imagenes/medida.jpeg>
-Package pdftex.def Info: Imagenes/medida.jpeg  used on input line 113.
-(pdftex.def)             Requested size: 113.80379pt x 199.15665pt.
- [2 <./Imagenes/mas.png>]
-<Imagenes/100gr.jpeg, id=30, 1606.0pt x 1204.5pt>
-File: Imagenes/100gr.jpeg Graphic file (type jpg)
-<use Imagenes/100gr.jpeg>
-Package pdftex.def Info: Imagenes/100gr.jpeg  used on input line 119.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
+))
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
+ [1]
+<Imagenes/pendulo.png, id=22, 85.0377pt x 83.8332pt>
+File: Imagenes/pendulo.png Graphic file (type png)
+<use Imagenes/pendulo.png>
+Package pdftex.def Info: Imagenes/pendulo.png  used on input line 92.
+(pdftex.def)             Requested size: 113.81885pt x 199.18007pt.
+<Imagenes/Longitud del Péndulo y Periodo.png, id=23, 113.223pt x 63.3567pt>
+File: Imagenes/Longitud del Péndulo y Periodo.png Graphic file (type png)
+<use Imagenes/Longitud del Péndulo y Periodo.png>
+Package pdftex.def Info: Imagenes/Longitud del Péndulo y Periodo.png  used on input line 110.
+(pdftex.def)             Requested size: 199.1746pt x 113.8196pt.
+ [2 <./Imagenes/pendulo.png>]
+<Imagenes/mas.png, id=32, 600.2425pt x 289.08pt>
+File: Imagenes/mas.png Graphic file (type png)
+<use Imagenes/mas.png>
+Package pdftex.def Info: Imagenes/mas.png  used on input line 125.
+(pdftex.def)             Requested size: 199.17055pt x 113.8082pt.
+<Imagenes/periodo.png, id=33, 94.1919pt x 48.9027pt>
+File: Imagenes/periodo.png Graphic file (type png)
+<use Imagenes/periodo.png>
+Package pdftex.def Info: Imagenes/periodo.png  used on input line 136.
+(pdftex.def)             Requested size: 199.17705pt x 113.81992pt.
 
-d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex:160: LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 		xlabel = \(F_{i}[N]\)
-                             ,
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no , in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no ] in font nullfont!
-d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex:172: Extra }, or forgotten $.
-\pgfplots@show@label .../every axis #1 label] {#2}
-                                                  ; \endgroup 
-l.172 	\end{axis}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex:172: Missing $ inserted.
-<inserted text> 
-                $
-l.172 	\end{axis}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex:172: Missing } inserted.
-<inserted text> 
-                }
-l.172 	\end{axis}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-d:/WorkSpace/Ondas_Mecanicas/Practica 1/main.tex:172: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.172 	\end{axis}
-                 
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-File: Imagenes/100gr.jpeg Graphic file (type jpg)
-<use Imagenes/100gr.jpeg>
-Package pdftex.def Info: Imagenes/100gr.jpeg  used on input line 188.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
-<Imagenes/200gr.jpeg, id=31, 1606.0pt x 1204.5pt>
-File: Imagenes/200gr.jpeg Graphic file (type jpg)
-<use Imagenes/200gr.jpeg>
-Package pdftex.def Info: Imagenes/200gr.jpeg  used on input line 192.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
-[3 <./Imagenes/medida.jpeg> <./Imagenes/100gr.jpeg>]
-<Imagenes/250gr.jpeg, id=42, 1606.0pt x 1204.5pt>
-File: Imagenes/250gr.jpeg Graphic file (type jpg)
-<use Imagenes/250gr.jpeg>
-Package pdftex.def Info: Imagenes/250gr.jpeg  used on input line 196.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
-<Imagenes/300gr.jpeg, id=43, 1606.0pt x 1204.5pt>
-File: Imagenes/300gr.jpeg Graphic file (type jpg)
-<use Imagenes/300gr.jpeg>
-Package pdftex.def Info: Imagenes/300gr.jpeg  used on input line 200.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
-<Imagenes/350gr.jpeg, id=44, 1606.0pt x 1204.5pt>
-File: Imagenes/350gr.jpeg Graphic file (type jpg)
-<use Imagenes/350gr.jpeg>
-Package pdftex.def Info: Imagenes/350gr.jpeg  used on input line 204.
-(pdftex.def)             Requested size: 85.35284pt x 113.80379pt.
-
-Overfull \hbox (2.82019pt too wide) in paragraph at lines 268--271
-[]
- []
-
-[4 <./Imagenes/200gr.jpeg> <./Imagenes/250gr.jpeg> <./Imagenes/300gr.jpeg> <./Imagenes/350gr.jpeg>]
-<Imagenes/graficarogue.png, id=50, 141.8901pt x 86.724pt>
-File: Imagenes/graficarogue.png Graphic file (type png)
-<use Imagenes/graficarogue.png>
-Package pdftex.def Info: Imagenes/graficarogue.png  used on input line 272.
-(pdftex.def)             Requested size: 284.55673pt x 199.18042pt.
-
-Overfull \hbox (39.31474pt too wide) in paragraph at lines 272--273
- [] 
+Overfull \hbox (1.42215pt too wide) in paragraph at lines 201--202
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--285
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+<Imagenes/Masal.png, id=34, 72.27pt x 54.9252pt>
+File: Imagenes/Masal.png Graphic file (type png)
+<use Imagenes/Masal.png>
+Package pdftex.def Info: Imagenes/Masal.png  used on input line 215.
+(pdftex.def)             Requested size: 113.817pt x 142.27159pt.
+[3 <./Imagenes/Longitud del Péndulo y Periodo.png> <./Imagenes/mas.png> <./Imagenes/periodo.png>]
+<Imagenes/regla.png, id=41, 72.9927pt x 54.9252pt>
+File: Imagenes/regla.png Graphic file (type png)
+<use Imagenes/regla.png>
+Package pdftex.def Info: Imagenes/regla.png  used on input line 221.
+(pdftex.def)             Requested size: 113.81133pt x 142.27159pt.
+ [4 <./Imagenes/Masal.png> <./Imagenes/regla.png>]
+<Imagenes/pemdulo.png, id=50, 85.0377pt x 119.4864pt>
+File: Imagenes/pemdulo.png Graphic file (type png)
+<use Imagenes/pemdulo.png>
+Package pdftex.def Info: Imagenes/pemdulo.png  used on input line 290.
+(pdftex.def)             Requested size: 113.81885pt x 142.26532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--291
-
- []
-
-[5 <./Imagenes/graficarogue.png>]
-File: Imagenes/100gr.jpeg Graphic file (type jpg)
-<use Imagenes/100gr.jpeg>
-Package pdftex.def Info: Imagenes/100gr.jpeg  used on input line 310.
-(pdftex.def)             Requested size: 85.35284pt x 142.25475pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 313--317
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--324
+Underfull \hbox (badness 10000) in paragraph at lines 322--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--345
+Underfull \hbox (badness 10000) in paragraph at lines 342--347
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--359
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
+
+ []
+
+[5 <./Imagenes/pemdulo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 395--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--368
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 415.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 417.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--385
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
-[]\OT1/cmr/m/n/10 [Fern^^Sandez, J. L. (s.f.). Mo-vi-mien-
+
+Overfull \hbox (9.13838pt too wide) in paragraph at lines 442--454
+\OT1/cmr/m/n/10 ^^A[] = []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
-\OT1/cmr/m/n/10 to arm^^Soni-co sim-ple (M.A.S.). Fi-si-ca-lab.
+Underfull \hbox (badness 10000) in paragraph at lines 442--454
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
-\OT1/cmr/m/n/10 https://www.fisicalab.com/apartado/concepto-
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
-[]\OT1/cmr/m/n/10 [(Simple Har-mo-nic mo-tion.
+Underfull \hbox (badness 10000) in paragraph at lines 477--486
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
-\OT1/cmr/m/n/10 (s.f.). http://hyperphysics.phy-
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
  []
 
-[7] (main.aux
+[6] [7] (main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 29676 strings out of 476330
- 729625 string characters out of 5787766
- 1877660 words of memory out of 5000000
- 49620 multiletter control sequences out of 15000+600000
- 519261 words of font info for 58 fonts, out of 8000000 for 9000
+ 29473 strings out of 476330
+ 725900 string characters out of 5787766
+ 1879660 words of memory out of 5000000
+ 49430 multiletter control sequences out of 15000+600000
+ 517742 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,103p,776b,2001s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (8 pages, 1298478 bytes).
+ 99i,13n,103p,1133b,2072s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (8 pages, 876048 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
