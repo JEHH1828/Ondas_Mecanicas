@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  19 OCT 2023 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  20 OCT 2023 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/WorkSpace/Ondas_Mecanicas/Practica 2/main.tex"
-(d:/WorkSpace/Ondas_Mecanicas/Practica 2/main.tex
+**"d:/WorkSpace/Ondas_Mecanicas/Practica 3/main.tex"
+(d:/WorkSpace/Ondas_Mecanicas/Practica 3/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -724,11 +724,11 @@ Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 41.
 {C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -736,151 +736,171 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `main.toc'.
 
  [1]
-<Imagenes/pendulo.png, id=22, 85.0377pt x 83.8332pt>
-File: Imagenes/pendulo.png Graphic file (type png)
-<use Imagenes/pendulo.png>
-Package pdftex.def Info: Imagenes/pendulo.png  used on input line 92.
-(pdftex.def)             Requested size: 85.36446pt x 170.72577pt.
-<Imagenes/Longitud del Péndulo y Periodo.png, id=23, 113.223pt x 63.3567pt>
-File: Imagenes/Longitud del Péndulo y Periodo.png Graphic file (type png)
-<use Imagenes/Longitud del Péndulo y Periodo.png>
-Package pdftex.def Info: Imagenes/Longitud del Péndulo y Periodo.png  used on input line 110.
-(pdftex.def)             Requested size: 199.1746pt x 113.8196pt.
- [2 <./Imagenes/pendulo.png>]
-<Imagenes/mas.png, id=32, 600.2425pt x 289.08pt>
-File: Imagenes/mas.png Graphic file (type png)
-<use Imagenes/mas.png>
-Package pdftex.def Info: Imagenes/mas.png  used on input line 125.
-(pdftex.def)             Requested size: 199.17055pt x 113.8082pt.
-<Imagenes/periodo.png, id=33, 94.1919pt x 48.9027pt>
-File: Imagenes/periodo.png Graphic file (type png)
-<use Imagenes/periodo.png>
-Package pdftex.def Info: Imagenes/periodo.png  used on input line 136.
-(pdftex.def)             Requested size: 199.17705pt x 113.81992pt.
-
-Overfull \hbox (1.42215pt too wide) in paragraph at lines 201--202
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\OT1/cmr/bx/n/12 Caracter^^S^^Psti-cas de las On-das
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--212
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-<Imagenes/Masal.png, id=34, 72.27pt x 54.9252pt>
-File: Imagenes/Masal.png Graphic file (type png)
-<use Imagenes/Masal.png>
-Package pdftex.def Info: Imagenes/Masal.png  used on input line 215.
-(pdftex.def)             Requested size: 113.817pt x 142.27159pt.
-[3 <./Imagenes/Longitud del Péndulo y Periodo.png> <./Imagenes/mas.png> <./Imagenes/periodo.png>]
-<Imagenes/regla.png, id=41, 72.9927pt x 54.9252pt>
-File: Imagenes/regla.png Graphic file (type png)
-<use Imagenes/regla.png>
-Package pdftex.def Info: Imagenes/regla.png  used on input line 221.
-(pdftex.def)             Requested size: 113.81133pt x 142.27159pt.
- [4 <./Imagenes/Masal.png> <./Imagenes/regla.png>]
-<Imagenes/pemdulo.png, id=50, 85.0377pt x 119.4864pt>
-File: Imagenes/pemdulo.png Graphic file (type png)
-<use Imagenes/pemdulo.png>
-Package pdftex.def Info: Imagenes/pemdulo.png  used on input line 290.
-(pdftex.def)             Requested size: 113.81885pt x 142.26532pt.
+<Imagenes/1.png, id=25, 62.634pt x 63.8385pt>
+File: Imagenes/1.png Graphic file (type png)
+<use Imagenes/1.png>
+Package pdftex.def Info: Imagenes/1.png  used on input line 122.
+(pdftex.def)             Requested size: 113.81244pt x 142.28615pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+<Imagenes/2.png, id=26, 119.9682pt x 90.0966pt>
+File: Imagenes/2.png Graphic file (type png)
+<use Imagenes/2.png>
+Package pdftex.def Info: Imagenes/2.png  used on input line 133.
+(pdftex.def)             Requested size: 113.81718pt x 142.2672pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--341
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+<Imagenes/3.png, id=27, 73.2336pt x 74.1972pt>
+File: Imagenes/3.png Graphic file (type png)
+<use Imagenes/3.png>
+Package pdftex.def Info: Imagenes/3.png  used on input line 146.
+(pdftex.def)             Requested size: 113.82152pt x 142.2815pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--347
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+<Imagenes/4.png, id=28, 147.6717pt x 83.8332pt>
+File: Imagenes/4.png Graphic file (type png)
+<use Imagenes/4.png>
+Package pdftex.def Info: Imagenes/4.png  used on input line 157.
+(pdftex.def)             Requested size: 113.81572pt x 142.27147pt.
+[3 <./Imagenes/1.png> <./Imagenes/2.png> <./Imagenes/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--388
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+<Imagenes/5.png, id=39, 139.9629pt x 80.4606pt>
+File: Imagenes/5.png Graphic file (type png)
+<use Imagenes/5.png>
+Package pdftex.def Info: Imagenes/5.png  used on input line 169.
+(pdftex.def)             Requested size: 113.8114pt x 142.27652pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+<Imagenes/6.png, id=40, 116.8365pt x 87.6876pt>
+File: Imagenes/6.png Graphic file (type png)
+<use Imagenes/6.png>
+Package pdftex.def Info: Imagenes/6.png  used on input line 181.
+(pdftex.def)             Requested size: 113.81082pt x 142.2886pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
-[5 <./Imagenes/pemdulo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 395--405
+<Imagenes/7.png, id=41, 116.8365pt x 87.6876pt>
+File: Imagenes/7.png Graphic file (type png)
+<use Imagenes/7.png>
+Package pdftex.def Info: Imagenes/7.png  used on input line 194.
+(pdftex.def)             Requested size: 113.81082pt x 142.2886pt.
 
- []
-
-
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 415.
-
-
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 417.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--439
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-
-Overfull \hbox (9.13838pt too wide) in paragraph at lines 442--454
-\OT1/cmr/m/n/10 ^^A[] = []$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 442--454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
+<Imagenes/8.png, id=42, 116.8365pt x 87.6876pt>
+File: Imagenes/8.png Graphic file (type png)
+<use Imagenes/8.png>
+Package pdftex.def Info: Imagenes/8.png  used on input line 205.
+(pdftex.def)             Requested size: 113.81082pt x 142.2886pt.
+[4 <./Imagenes/4.png> <./Imagenes/5.png> <./Imagenes/6.png> <./Imagenes/7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
+<Imagenes/9.png, id=50, 116.8365pt x 87.6876pt>
+File: Imagenes/9.png Graphic file (type png)
+<use Imagenes/9.png>
+Package pdftex.def Info: Imagenes/9.png  used on input line 217.
+(pdftex.def)             Requested size: 113.81082pt x 142.2886pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--486
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
+<Imagenes/11.png, id=51, 116.8365pt x 87.6876pt>
+File: Imagenes/11.png Graphic file (type png)
+<use Imagenes/11.png>
+Package pdftex.def Info: Imagenes/11.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81082pt x 142.2886pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--488
-
+Overfull \hbox (24.77559pt too wide) in paragraph at lines 239--266
+ [] 
  []
 
-[6] [7] (main.aux
+[5 <./Imagenes/8.png> <./Imagenes/9.png> <./Imagenes/11.png>] [6] (main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 29473 strings out of 476330
- 725900 string characters out of 5787766
- 1879660 words of memory out of 5000000
- 49430 multiletter control sequences out of 15000+600000
+ 28984 strings out of 476330
+ 711644 string characters out of 5787766
+ 1872660 words of memory out of 5000000
+ 48938 multiletter control sequences out of 15000+600000
  517742 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,103p,1133b,2072s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (8 pages, 876061 bytes).
+ 99i,12n,103p,774b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (7 pages, 2167337 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

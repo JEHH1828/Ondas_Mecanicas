@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
+\contentsline {section}{\numberline {3}Marco teórico.}{2}{}%
+\contentsline {subsection}{\numberline {3.1} Definición de Ondas Magnéticas:}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Características de las Ondas Magnéticas:}{2}{}%
+\contentsline {subsection}{\numberline {3.3}Principio de Superposición:}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Interferencia de Ondas Magnéticas: Interferencia Constructiva:}{2}{}%
+\contentsline {subsection}{\numberline {3.5}Ejemplos Prácticos: Aplicaciones en Comunicaciones:}{2}{}%
+\contentsline {section}{\numberline {4}Experimento 1 - Generación de figuras Lissajous}{2}{}%
+\contentsline {section}{\numberline {5}Conclusiones.}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Hernández Huerta Jose Emilio.}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Hernández Sanluis Danna Estefany.}{6}{}%
+\contentsline {subsection}{\numberline {5.3}Nataly Bejarano Garduño.}{6}{}%
+\contentsline {subsection}{\numberline {5.4}Mojica Reyes Rogelio.}{6}{}%
